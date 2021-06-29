@@ -1,0 +1,17 @@
+<templateSet group="user">
+  <template name="mapper" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; ?&gt;&#10;&lt;!DOCTYPE mapper PUBLIC &quot;-//mybatis.org//DTD Mapper 3.0//EN&quot; &quot;http://mybatis.org/dtd/mybatis-3-mapper.dtd&quot; &gt;&#10;&lt;mapper namespace=&quot;&quot; &gt;&#10;&#10;&lt;/mapper&gt;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="webxml" value="&lt;web-app&gt;&#10;&#10;    &lt;listener&gt;&#10;        &lt;listener-class&gt;org.springframework.web.context.ContextLoaderListener&lt;/listener-class&gt;&#10;    &lt;/listener&gt;&#10;&#10;    &lt;context-param&gt;&#10;        &lt;param-name&gt;contextConfigLocation&lt;/param-name&gt;&#10;        &lt;param-value&gt;/WEB-INF/app-context.xml&lt;/param-value&gt;&#10;    &lt;/context-param&gt;&#10;&#10;    &lt;servlet&gt;&#10;        &lt;servlet-name&gt;app&lt;/servlet-name&gt;&#10;        &lt;servlet-class&gt;org.springframework.web.servlet.DispatcherServlet&lt;/servlet-class&gt;&#10;        &lt;init-param&gt;&#10;            &lt;param-name&gt;contextConfigLocation&lt;/param-name&gt;&#10;            &lt;param-value&gt;&lt;/param-value&gt;&#10;        &lt;/init-param&gt;&#10;        &lt;load-on-startup&gt;1&lt;/load-on-startup&gt;&#10;    &lt;/servlet&gt;&#10;&#10;    &lt;servlet-mapping&gt;&#10;        &lt;servlet-name&gt;app&lt;/servlet-name&gt;&#10;        &lt;url-pattern&gt;/app/*&lt;/url-pattern&gt;&#10;    &lt;/servlet-mapping&gt;&#10;&#10;&lt;/web-app&gt;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="mybatisxml" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#10;&lt;!--表明是mybtis的配置文件  --&gt;&#10;&lt;!DOCTYPE configuration PUBLIC &quot;-//mybatis.org//DTD Config 3.0//EN&quot; &quot;http://mybatis.org/dtd/mybatis-3-config.dtd&quot;&gt;&#10;&lt;configuration&gt;&#10;&#10;&#10;&lt;/configuration&gt;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+</templateSet>

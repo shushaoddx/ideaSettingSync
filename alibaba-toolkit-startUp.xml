@@ -1,0 +1,11 @@
+<application>
+  <component name="TipsStore">
+    <option name="globalFirstStartUp" value="false" />
+    <entry projectPath="D:/Java学习需要/hutool/yuancode/hutool" startUpFlag="FIRST" />
+    <entry projectPath="D:/ideaproject/springbootproject/TestFreemaler2" startUpFlag="FIRST" />
+    <entry projectPath="D:/ideaproject/springbootproject/spring-boot-01-helloworld" startUpFlag="FIRST" />
+    <entry projectPath="D:/ideaproject/springbootproject/spring-boot-api-project-seed" startUpFlag="FIRST" />
+    <entry projectPath="D:/ideaproject/testHutool" startUpFlag="FIRST" />
+    <entry projectPath="D:/ideaproject/testIncrease" startUpFlag="FIRST" />
+  </component>
+</application>
